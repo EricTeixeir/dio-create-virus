@@ -1,0 +1,1 @@
+pyw para rodar em segundo plano
